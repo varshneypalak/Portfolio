@@ -30,7 +30,7 @@ const Home = () => {
                     <p className='text-gray-500 py-3 text-2xl sm:text-md flex  justify-center '>
                         Fueled by a passion for coding and design, I build user-friendly, responsive interfaces that engage users. My problem-solving skills ensure that every project not only looks good but also works smoothly, bringing your ideas to life on the web.</p>
                     <button className='text-white w-fit p-4 my-5 flex  rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
-                        <a href="resume.pdf" download='Palak Varshney Resume.pdf'>Resume</a>
+                        <a href="Resume.pdf" download='Palak Varshney Resume.pdf'>Resume</a>
 
                     </button>
                 </div>
